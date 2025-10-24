@@ -16,10 +16,13 @@ El más grande es 27
 ## Contesta las siguientes preguntas
 
 1. Modifique su solución para usar tres declaraciones cin separadas en lugar de una. Escribe un mensaje separado para cada cin.
+Realizado.
 
 2. ¿Importa si se usa < o <= al hacer comparaciones para determinar el número entero más pequeño? ¿Cuál usaste y por qué?
+Lógicamente no importa, usé "<" para determinar el numero minimo, por como funciona el "<=" logicamente es "=" y el "<" no se usa.
 
 3. En el programa, probablemente usó una variable double o float para almacenar el promedio. Cambie el tipo de esa variable a entero. ¿El resultado es diferente de lo que observó anteriormente?
+Sí cambia el promedio cuando es float o entero, porque en entero el resultado se redondea para abajo y el float incluye decimales.
 
 ## ✅ Resultado
 
