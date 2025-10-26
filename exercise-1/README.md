@@ -6,7 +6,7 @@ Escriba un programa que lea tres números enteros del teclado e imprima la suma,
 
 ```cmd
 Ingrese tres enteros diferentes: 13 27 14
-La suma is 54
+La suma es 54
 El promedio es 18
 El producto es 4914
 El más pequeño es 13
@@ -19,10 +19,10 @@ El más grande es 27
 Realizado.
 
 2. ¿Importa si se usa < o <= al hacer comparaciones para determinar el número entero más pequeño? ¿Cuál usaste y por qué?
-Lógicamente no importa, usé "<" para determinar el numero minimo, por como funciona el "<=" logicamente es "=" y el "<" no se usa.
+No siempre importa, pero si cambia el comportamiento cuando hay números iguales, usé "<" y ">" porque es suficiente para determinar correctamente el valor mínimo o máximo y comparar de forma estricta, en cambio, por como funciona el "<=" y ">=" logicamente es "=" y esto permite incluir empates.
 
 3. En el programa, probablemente usó una variable double o float para almacenar el promedio. Cambie el tipo de esa variable a entero. ¿El resultado es diferente de lo que observó anteriormente?
-Sí cambia el promedio cuando es float o entero, porque en entero el resultado se redondea para abajo y el float incluye decimales.
+Sí, cambia el promedio cuando es float o entero, porque si la variable está declarada en entero descarta la parte decimal, en cambio el float incluye los decimales.
 
 ## ✅ Resultado
 
