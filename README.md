@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Karla Bustamante Gómez
+- Matrícula: S25018139
+- Fecha: 26/10/2025
 
 ## 🎯 Objetivos
 
